@@ -1,2 +1,2 @@
 # salivary-ai-periodontitis-risk-predictor
-AI-driven risk prediction pipeline for periodontitis-diabetes using salivary biomarkers
+This project's synthetic dataset is generated to match the group-level distributions (means, SDs, sample sizes) published in Anwar et al., 2022, "Evaluation of Salivary Mucin, Amylase, Protein Profile, and Periodontal Parameters among Hypertensive and Diabetic Patients," Applied Sciences, 12(15), 7407 (https://doi.org/10.3390/app12157407) — an open-access study I co-authored as first author.
